@@ -43,6 +43,23 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 The analysis concluded with a recommended system alternative based on weighted evaluation and feasibility discussion. The documented proposal focuses on improving shipment information, automatic notifications, customer tracking, invoice review, and communication about incoming packages. These are recommended improvements, not implemented production results.
 
 ## Visual Highlights
+
+**SPL logistics ecosystem map**
+
+![SPL logistics ecosystem map](assets/ecosystem-map.png)
+
+**SWOT analysis**
+
+![SWOT analysis](assets/swot-analysis.png)
+
+**5 Whys root-cause analysis**
+
+![5 Whys root-cause analysis](assets/five-whys-analysis.png)
+
+**Level-0 Data Flow Diagram (DFD0)**
+
+![Level-0 Data Flow Diagram](assets/dfd-level-0.png)
+
 ## Deliverables
 
 - Organizational and systems background analysis
