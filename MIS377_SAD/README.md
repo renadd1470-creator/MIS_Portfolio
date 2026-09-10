@@ -42,6 +42,7 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 
 The analysis concluded with a recommended system alternative based on weighted evaluation and feasibility discussion. The documented proposal focuses on improving shipment information, automatic notifications, customer tracking, invoice review, and communication about incoming packages. These are recommended improvements, not implemented production results.
 
+## Visual Highlights
 ## Deliverables
 
 - Organizational and systems background analysis

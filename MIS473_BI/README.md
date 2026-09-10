@@ -42,6 +42,20 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 
 The regression model reported a weak positive cholesterol-to-maximum-heart-rate relationship (**Multiple R = 0.238; R-squared = 0.057**). The report appropriately notes that cholesterol alone explained a small portion of variation in maximum heart rate, indicating the need to consider additional factors. The findings are limited to the project dataset and should not be treated as medical advice.
 
+## Visual Highlights
+
+**Interactive Power BI dashboards (Managerial and Functional views)**
+
+![Power BI dashboards overview](assets/dashboard-overview.png)
+
+**Data quality assessment in Power BI**
+
+![Data quality assessment](assets/data-quality-assessment.png)
+
+**Regression analysis (Cholesterol vs. Maximum Heart Rate)**
+
+![Regression analysis](assets/regression-analysis.png)
+
 ## Deliverables
 
 - BI analysis report

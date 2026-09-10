@@ -41,6 +41,20 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 
 The report states that potential users expressed high satisfaction with the problem-solving approach and design solutions. Feedback also identified opportunities to improve usability and reduce the number of steps for some tasks; the team incorporated suggested refinements into an updated prototype.
 
+## Visual Highlights
+
+**Low-fidelity wireframes: Trip planning and utility features**
+
+![Wireframes: Trip planning and utility features](assets/wireframes-travel-planning.png)
+
+**Low-fidelity wireframes: Destination and restaurant discovery**
+
+![Wireframes: Destination and restaurant discovery](assets/wireframes-discovery.png)
+
+**High-fidelity prototype mock-up: Accommodation details and inclusive design**
+
+![Prototype mock-up: Accommodation details and inclusive design](assets/prototype-mockup.png)
+
 ## Deliverables
 
 - UX research and design report

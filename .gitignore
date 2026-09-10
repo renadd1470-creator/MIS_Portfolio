@@ -18,3 +18,4 @@ desktop.ini
 .vscode/
 __pycache__/
 *.py[cod]
+tmp/

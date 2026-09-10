@@ -40,6 +40,20 @@ Co-authored the group project. The source reports identify Renad Alghamdi as a g
 
 The completed report documents a normalized schema, SQL table definitions, inserted sample data, and operational SQL queries. The database work demonstrates how a relational model can organize related stadium operations data and support business questions.
 
+## Visual Highlights
+
+**Conceptual ER diagram (Crow's Foot notation)**
+
+![Conceptual ER diagram](assets/conceptual-er-diagram.png)
+
+**Logical database design and relational schema**
+
+![Logical database design](assets/logical-database-design.png)
+
+**SQL table implementation and integrity constraints**
+
+![SQL table definitions](assets/sql-table-definition.png)
+
 ## Deliverables
 
 - Conceptual ER diagram and relationship descriptions

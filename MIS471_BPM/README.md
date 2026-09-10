@@ -40,6 +40,20 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 
 The report's To-Be analysis shows cycle-time efficiency increasing from **47% to 80%** for one path and from **65% to 78.8%** for another. The report presents these as modeled improvement outcomes, intended to reduce waiting and manual work; they are not measured live-business results.
 
+## Visual Highlights
+
+**Redesigned To-Be process model**
+
+![To-Be process model](assets/to-be-process-model.png)
+
+**As-Is flow analysis and cycle-time efficiency**
+
+![As-Is cycle-time analysis](assets/as-is-cycle-time.png)
+
+**To-Be flow analysis and cycle-time efficiency improvements**
+
+![To-Be cycle-time analysis](assets/to-be-cycle-time.png)
+
 ## Deliverables
 
 - Current and proposed process models

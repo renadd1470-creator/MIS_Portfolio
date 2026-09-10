@@ -38,6 +38,16 @@ Co-authored the group project. The source report identifies Renad Alghamdi as a 
 
 The analysis identified an integrated ERP approach as a way to reduce manual handoffs, improve visibility of orders and shipments, and support more consistent information sharing across functions. These are proposed process improvements from the project analysis, not measured implementation results.
 
+## Visual Highlights
+
+**Coca-Cola landscape model**
+
+![Coca-Cola landscape model](assets/landscape-model.png)
+
+**Cross-functional order-fulfillment swimlane**
+
+![Cross-functional order-fulfillment swimlane](assets/cross-functional-swimlane.png)
+
 ## Deliverables
 
 - Enterprise systems analysis report
